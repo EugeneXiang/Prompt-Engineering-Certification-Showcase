@@ -8,16 +8,9 @@ Hi, I’m Eugene — a language behavior analyst and prompt evaluator who believ
 |-------------|----------|------|--------|
 | **ChatGPT Prompt Engineering for Developers** | DeepLearning.AI x OpenAI | Prompt Fundamentals | ✅ Completed |
 | **Craft Effective Prompts for Microsoft 365 Copilot** | Microsoft Learn | Enterprise Prompting | ✅ Completed |
-
+| **Prompt Design for Gemini (Gemini AI Studio)** | Google Learn | Hands-on + Applied | ✅ Completed |
 ---
 
-## 🔄 In Progress
-
-| Certificate | Provider | Type | Status |
-|-------------|----------|------|--------|
-| **Prompt Design for Gemini (Gemini AI Studio)** | Google Learn | Hands-on + Applied | 🛠️ In Progress |
-
----
 
 ## 🧠 Core Skills & Focus
 
